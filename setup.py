@@ -13,7 +13,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'djangorestframework>=3.10',
-        'django-invitations==1.9.3'
+        'django-invitations==2.0.0'
     ],
     include_package_data=True,
     classifiers=[
